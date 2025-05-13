@@ -1,0 +1,2 @@
+C:/Users/kumar/OneDrive/Desktop/movies/android/app/.cxx/RelWithDebInfo/5u7584o5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/kumar/OneDrive/Desktop/movies/android/app/.cxx/RelWithDebInfo/5u7584o5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
